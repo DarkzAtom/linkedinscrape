@@ -76,9 +76,7 @@ def main():
 
 
 
-    #
-    # jobslisttexts = [job.text for job in jobslist]
-    # print(jobslisttexts)
+  
 
 if __name__ == "__main__":
     main()
